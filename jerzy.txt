@@ -1,1 +1,2 @@
-to jest nowy file na nowym branch
+to jest nowy file na branch jerzy
+a to jest dodatek z branch nowy
